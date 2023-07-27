@@ -6,4 +6,4 @@ main: me.unfamousthomas.saberplaceholder.SaberPlaceHolder
 depend:
   - Factions
   - PlaceholderAPI
-description: Adds a few placeholders to use for factions (using placeholderapi).
+description: Adds a few placeholders to use for factions (using placeholderapi). Made for Tolerable.
